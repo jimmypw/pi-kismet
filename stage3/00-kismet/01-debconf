@@ -1,0 +1,2 @@
+kismet kismet/install-setuid boolean true
+kismet kismet/install-users string pi
